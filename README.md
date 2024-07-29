@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on dollchan
 - 📫 How to reach me on giraffes
-- 😄 Pronouns: he, his
+- 😄 Pronouns: he, him
 
 <!---
 GFLJS2100-user/GFLJS2100-user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
