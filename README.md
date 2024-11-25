@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GFLJS2100-user
 - 👀 I’m interested in bytebeat
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on dollchan
 - 📫 How to reach me on giraffes
 - 😄 Pronouns: he, him
 
